@@ -1,0 +1,13 @@
+#weights
+notebook/vgg_face_weights.h5
+notebook/VGGFace2_DeepFace_weights_val-0.9034.h5
+
+#python
+__pycache__
+
+#notebooks
+.ipynb_checkpoints
+
+#Eigenface calculations
+numpy/Eigenface/reconstruct_k.npy
+numpy/Eigenface/reconstructed.npy
